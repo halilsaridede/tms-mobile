@@ -1,0 +1,16 @@
+bearer token için süre bitişinde logout yapma
+backend kontrollerinin kontrol edilmesi
+
+!! sipariş durumu 3 olan 2 olan varsa drag iptal olacak (end_time === null && status === 2) 
+status 2 olan varsa drag iptal olacak
+liste güncellendikten sonra konum gönderiliyor mu kontrol edilecek
+not gönderme eklenecek
+refreshControle fonksiyonların eklenmesi - veri güncelleme için
+konum açıldıktan sonra state güncelleme
+android te konum açmaya yönlendirme
+android konum sorunu
+KONUM İÇİN KONTROL
+loginde role için uyarı
+backend müşteri onayı bekliyor kısmında problem var 
+
+siparişi sil düzeltilecek
